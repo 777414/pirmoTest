@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-16"?>
+<LTProjectResources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <WatchScripts />
+    <Ignored>
+        <KeyValueItem>
+            <Key>C:\Users\robotmp\Desktop\Primo\Framework\InitAllSettings.ltw</Key>
+            <Value>e6d1c30f-720a-4e6c-a810-1a8fe600142e</Value>
+        </KeyValueItem>
+        <KeyValueItem>
+            <Key>C:\Users\robotmp\Desktop\Primo\Framework\SetTransactionStatus.ltw</Key>
+            <Value>4febf26c-1821-4177-bef6-33d05a73016d</Value>
+        </KeyValueItem>
+        <KeyValueItem>
+            <Key>C:\Users\KoinovaVF\Desktop\Шаблоны\REF\1.0.2\Main.ltw</Key>
+            <Value>cd081439-2ef0-4e04-95d8-7ca2f295a364</Value>
+        </KeyValueItem>
+        <KeyValueItem>
+            <Key>C:\Users\KoinovaVF\Desktop\Шаблоны\REF\1.0.2\Main.ltw</Key>
+            <Value>2b57cbaf-6ec2-4646-8ec8-5a35bf0653b1</Value>
+        </KeyValueItem>
+        <KeyValueItem>
+            <Key>C:\Users\KoinovaVF\Desktop\Primo\REF\1.0.3\Main.ltw</Key>
+            <Value>cd081439-2ef0-4e04-95d8-7ca2f295a364</Value>
+        </KeyValueItem>
+        <KeyValueItem>
+            <Key>C:\Users\KoinovaVF\Desktop\Primo\REF\1.0.3\Main.ltw</Key>
+            <Value>2b57cbaf-6ec2-4646-8ec8-5a35bf0653b1</Value>
+        </KeyValueItem>
+        <KeyValueItem>
+            <Key>C:\Users\KoinovaVF\Desktop\Primo\REF\1.0.3\Framework\SetTransactionStatus.ltw</Key>
+            <Value>4febf26c-1821-4177-bef6-33d05a73016d</Value>
+        </KeyValueItem>
+    </Ignored>
+    <Breakpoints>
+        <KeyValueItem>
+            <Key>C:\Users\robotmp\Desktop\Primo\Framework\InitAllSettings.ltw</Key>
+            <Value>5b0a1141-bf23-4fb4-8ed8-5a22f587dca0</Value>
+        </KeyValueItem>
+        <KeyValueItem>
+            <Key>C:\Users\robotmp\Desktop\Primo\Framework\InitAllSettings.ltw</Key>
+            <Value>0dd4e75c-28bb-49e8-8847-c14da241e474</Value>
+        </KeyValueItem>
+        <KeyValueItem>
+            <Key>C:\Users\robotmp\Desktop\Primo\Новый процесс.ltw</Key>
+            <Value>437dc2a6-8fb1-4d52-ab85-6f6187f7a22a</Value>
+        </KeyValueItem>
+        <KeyValueItem>
+            <Key>C:\Users\KoinovaVF\Desktop\Шаблоны\REF\1.0.2\Новый процесс.ltw</Key>
+            <Value>e230a60b-10f6-4e7f-9f2d-ceb8bf5d8f5b</Value>
+        </KeyValueItem>
+        <KeyValueItem>
+            <Key>C:\Users\KoinovaVF\Desktop\Primo\REF\1.0.4\Framework\SetTransactionStatus.ltw</Key>
+            <Value>2523769e-bc88-432a-a07a-ef04acf14b2e</Value>
+        </KeyValueItem>
+        <KeyValueItem>
+            <Key>C:\Users\KoinovaVF\Desktop\Primo\REF\1.0.4\Main.ltw</Key>
+            <Value>23872503-0dba-49f2-99f9-062a47aac66a</Value>
+        </KeyValueItem>
+        <KeyValueItem>
+            <Key>\\s019.kamaz.org\ГПР\RPA\Productive\Продуктивные проекты (с версиями)\REF\1.0.5\Main.ltw</Key>
+            <Value>23872503-0dba-49f2-99f9-062a47aac66a</Value>
+        </KeyValueItem>
+    </Breakpoints>
+    <Git />
+    <LastOpenedItems>
+        <string>C:\Users\robotmp\Desktop\Primo\Main.ltw</string>
+        <string>C:\Users\robotmp\Desktop\Primo\Framework\Новый процесс2.ltw</string>
+        <string>C:\Users\robotmp\Desktop\Primo\Framework\SetTransactionStatus.ltw</string>
+        <string>C:\Users\KoinovaVF\Desktop\Шаблоны\REF\1.0.2\Main.ltw</string>
+        <string>C:\Users\KoinovaVF\Desktop\Шаблоны\REF\1.0.2\Новый процесс.ltw</string>
+        <string>C:\Users\KoinovaVF\Desktop\Primo\REF\1.0.2\Main.ltw</string>
+        <string>C:\Users\KoinovaVF\Desktop\Primo\REF\1.0.3\Main.ltw</string>
+        <string>C:\Users\KoinovaVF\Desktop\Primo\REF\1.0.3\Process.ltw</string>
+        <string>C:\Users\KoinovaVF\Desktop\Primo\REF\1.0.4\Main.ltw</string>
+        <string>C:\Users\KoinovaVF\Desktop\Primo\REF\1.0.5\Main.ltw</string>
+        <string>C:\Users\AksenovVV\Desktop\REFramework\Main.ltw</string>
+    </LastOpenedItems>
+</LTProjectResources>
